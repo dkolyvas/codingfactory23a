@@ -1,8 +1,7 @@
 package gr.aueb.cf.chapter1.Chapter1;
 
 public class AddApp {
-    /** Προσθέτει
-     * δυο ακέραιους
+    /** adds two integers
      */
     public static void main(String[] args){
         int num1 = 18;
